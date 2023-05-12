@@ -1,0 +1,6 @@
+tut-9 -> next.js link component 
+import link from 'next/script '
+
+
+
+
